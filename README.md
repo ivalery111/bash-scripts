@@ -1,1 +1,1 @@
-# bash-scripts
+# Linux Kernel Development Scripts
